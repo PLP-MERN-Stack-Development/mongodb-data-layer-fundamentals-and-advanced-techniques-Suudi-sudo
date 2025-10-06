@@ -110,7 +110,7 @@ node queries.js
 *Shows the `plp_bookstore` database with `books` collection containing 14 documents.*
 
 ### Query Execution Results
-![Query Results](image.png)
+![Query Results](Screenshot%20from%202025-10-06%2011-52-55.png)
 
 *Demonstrates successful execution of all CRUD operations and queries.*
 
